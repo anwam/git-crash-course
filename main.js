@@ -3,6 +3,4 @@ function main() {
   console.log("this is git");
 }
 
-function register() {
-  console.log("registered");
-}
+// เพิ่มคำว่า world ต่อท้าย hello
